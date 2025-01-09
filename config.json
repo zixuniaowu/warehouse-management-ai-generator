@@ -1,0 +1,19 @@
+{
+    "database": {
+        "path": "warehouse.db"
+    },
+    "barcode": {
+        "save_path": "barcodes",
+        "format": "ean13",
+        "print": {
+            "width": 50,
+            "height": 30,
+            "margin": 2
+        }
+    },
+    "ui": {
+        "window_size": "800x600",
+        "title": "在庫管理システム",
+        "language": "ja"
+    }
+}
